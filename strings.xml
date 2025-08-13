@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+
+    <!-- activity_main.xml で参照している文字列 -->
+    <string name="uri_hint">spotify:track:... / album:... / playlist:...</string>
+    <string name="sample_track_uri">spotify:playlist:4LzSuB2A4mvM1a2KbfC3K8</string>
+    <string name="play_btn">▶</string>
+    <string name="pause_btn">⏸</string>
+    <string name="prev_btn">⏮</string>
+    <string name="next_btn">⏭</string>
+    <string name="connect_btn">Connect to Spotify</string>
+</resources>

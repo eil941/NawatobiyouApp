@@ -1,4 +1,4 @@
-package com.example.test
+package com.example.nawatobiyouapp
 
 import android.media.AudioAttributes
 import android.media.SoundPool

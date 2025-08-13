@@ -24,8 +24,8 @@ import kotlin.math.min
 class MainActivity : AppCompatActivity() {
 
     // ▼ Spotify Developer Dashboard の値に置き換え
-    private val clientId = "53c7dd7dd3d24050b86ec6124446138b"
-    private val redirectUri = "yourapp://callback"
+    private val clientId = "write your clinedt id"
+    private val redirectUri = "write your redirect url"
     // ▲
 
     private var appRemote: SpotifyAppRemote? = null

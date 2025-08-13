@@ -4,7 +4,7 @@
 
     <!-- activity_main.xml で参照している文字列 -->
     <string name="uri_hint">spotify:track:... / album:... / playlist:...</string>
-    <string name="sample_track_uri">spotify:playlist:4LzSuB2A4mvM1a2KbfC3K8</string>
+    <string name="sample_track_uri">spotify:playlist: write your playliist id </string>
     <string name="play_btn">▶</string>
     <string name="pause_btn">⏸</string>
     <string name="prev_btn">⏮</string>
